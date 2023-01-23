@@ -164,7 +164,7 @@ cleanup:
   #     $2 = merge request iid
   #     $3 = bearer token
   function trigger_pipeline() {
-    HAS_CONFLICTS=$( curl --request GET "https://gitlab.curexus.com/api/v4/projects/$CI_MERGE_REQUEST_PROJECT_ID/merge_requests/$CI_MERGE_REQUEST_IID" \
+    HAS_CONFLICTS=$( curl --request GET "$CI_API_V4_URL/projects/$CI_MERGE_REQUEST_PROJECT_ID/merge_requests/$CI_MERGE_REQUEST_IID" \
      --header "Authorization: Bearer $BEARER" | jq --raw-output ".has_conflicts" )
     if [[ $HAS_CONFLICTS == true ]]; then
       echo $HAS_CONFLICTS
