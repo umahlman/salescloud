@@ -1,0 +1,1 @@
+<html><head></head><body>Hallo,<br /><br />wir haben weitergemacht und Ihren Kundenvorgang mit der Nummer {{{Case.CaseNumber}}} geschlossen.<br /><br />Wenn Sie den Kundenvorgang erneut öffnen möchten, antworten Sie auf diese E-Mail.<br /><br />Vielen Dank!<br /><br />{{{Organization.Name}}}-Kundendienst</body></html>

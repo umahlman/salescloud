@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label></label>
+    <name>agf__Status__c</name>
+    <picklistValues>
+        <masterLabel>Canceled</masterLabel>
+        <translation>Verworfen</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Duplicate</masterLabel>
+        <translation>Dublikat</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Failed</masterLabel>
+        <translation>Abgelehnt</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Finished</masterLabel>
+        <translation>Abgeschlossen</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fixed</masterLabel>
+        <translation>Gelöst</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>In Development</masterLabel>
+        <translation>In Entwicklung</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Investigating</masterLabel>
+        <translation>In Anlayse</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>New</masterLabel>
+        <translation>Neu</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Not Reproducible</masterLabel>
+        <translation>Nicht Reproduzierbar</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Not a bug</masterLabel>
+        <translation>Kein Fehler</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Passed</masterLabel>
+        <translation>Freigegeben</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ready for Refinement</masterLabel>
+        <translation>Fertig zur Überprüfung</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ready for Release</masterLabel>
+        <translation>Fertig für Rollout</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ready for Review</masterLabel>
+        <translation>Fertig zur Vorstellung im Review</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ready for Sprint</masterLabel>
+        <translation>Fertig für den Sprint</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rejected</masterLabel>
+        <translation>Zurückgewiesen</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Test</masterLabel>
+        <translation></translation>
+    </picklistValues>
+</CustomFieldTranslation>

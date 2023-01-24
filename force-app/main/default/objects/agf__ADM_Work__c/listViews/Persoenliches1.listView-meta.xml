@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Persoenliches1</fullName>
+    <columns>NAME</columns>
+    <columns>agf__Subject__c</columns>
+    <columns>agf__Epic__c</columns>
+    <columns>agf__Product_Tag__c</columns>
+    <columns>agf__Status__c</columns>
+    <columns>agf__Assignee__c</columns>
+    <columns>LAST_UPDATE</columns>
+    <columns>agf__Type__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>Gesamtübersicht</label>
+</ListView>

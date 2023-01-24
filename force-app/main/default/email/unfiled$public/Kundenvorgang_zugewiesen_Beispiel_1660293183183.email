@@ -1,0 +1,1 @@
+<html><head></head><body>Hallo,<br /><br />ein Mitglied unseres Kundendienstteams wurde Ihrem Kundenvorgang mit der Nummer {{{Case.CaseNumber}}} zugewiesen. Sie hören in Kürze von ihm.<br /><br />Vielen Dank!<br /><br />{{{Organization.Name}}}-Kundendienst</body></html>

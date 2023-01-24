@@ -1,0 +1,1 @@
+<html><head></head><body>Hallo,<br /><br />vielen Dank für Ihre E-Mail. Ihre Anforderung wird unter der Kundenvorgangsnummer {{{Case.CaseNumber}}} erfasst.<br /><br />Ein Mitglied unseres Teams  wird sich bei Ihnen melden. In der Zwischenzeit können Sie mit Fragen auf diese E-Mail antworten.<br /><br />Vielen Dank!<br /><br />{{{Organization.Name}}}-Kundendienst</body></html>

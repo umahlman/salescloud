@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Nach E-Mail-Anfrage an Kundenvorgangskontakt gesendet</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>E-Mail-Vorgangserfassung (Beispiel)</name>
+    <relatedEntityType>Case</relatedEntityType>
+    <style>none</style>
+    <subject>Vielen Dank für die Kontaktaufnahme!</subject>
+    <type>custom</type>
+    <uiType>SFX</uiType>
+</EmailTemplate>
