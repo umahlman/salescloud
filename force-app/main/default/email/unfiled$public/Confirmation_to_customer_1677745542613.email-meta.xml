@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Bestätigungsmail, dass ein Lead in SF eingegangen ist.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Confirmation to customer</name>
+    <relatedEntityType>Lead</relatedEntityType>
+    <style>none</style>
+    <subject>Vielen Dank für Ihre Nachricht!</subject>
+    <type>custom</type>
+    <uiType>SFX</uiType>
+</EmailTemplate>

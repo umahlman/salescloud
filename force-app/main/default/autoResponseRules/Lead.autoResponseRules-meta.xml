@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AutoResponseRules xmlns="http://soap.sforce.com/2006/04/metadata"/>
-
+<AutoResponseRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <autoResponseRule>
+        <fullName>Confirmation Web2Lead</fullName>
+        <active>true</active>
+        <ruleEntry>
+            <formula>TEXT (LeadSource) = &quot;Website&quot;</formula>
+            <senderEmail>talha.yildiz@curexus.com</senderEmail>
+            <senderName>Talha Yildiz</senderName>
+            <template>unfiled$public/Confirmation_to_customer_1677745542613</template>
+        </ruleEntry>
+    </autoResponseRule>
+</AutoResponseRules>
